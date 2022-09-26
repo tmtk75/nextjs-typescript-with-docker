@@ -13,7 +13,7 @@ interface Props {
 }
 
 const Home: NextPage<Props> = (props) => {
-  // console.log({ props });
+  console.log({ props });
   return (
     <>
       {props.title}, {props.now}
