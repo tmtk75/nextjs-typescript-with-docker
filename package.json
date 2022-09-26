@@ -1,5 +1,5 @@
 {
-  "name": "my-app-ssr",
+  "name": "nextjs-typescript-with-docker",
   "version": "0.1.0",
   "private": true,
   "scripts": {
